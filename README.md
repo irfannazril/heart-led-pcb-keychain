@@ -1,4 +1,4 @@
-# 🛠️ Custom Heart-Shaped LED PCB Keychain [WIP]
+# Custom Heart-Shaped LED PCB Keychain [WIP]
 
 > **Status Proyek:** `Work in Progress` (Fase Desain)
 
