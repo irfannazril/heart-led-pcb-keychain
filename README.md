@@ -29,7 +29,7 @@ Dalam proyek mandiri ini, saya bertanggung jawab penuh atas seluruh tahapan R&D 
 
 
 ## 📈 Perkembangan Proyek & Langkah Selanjutnya
-Saat ini proyek telah menyelesaikan fase desain digital dengan tingkat kesiapan 80% pada aspek sirkuit. Beberapa langkah berikutnya yang akan dieksekusi adalah:
+Saat ini proyek telah menyelesaikan fase desain digital dengan tingkat kesiapan 90% pada aspek sirkuit. Beberapa langkah berikutnya yang akan dieksekusi adalah:
 1.  [ ] Mengirimkan file Gerber ke pihak manufaktur PCB (Fabrikasi).
 2.  [ ] Belanja dan pengumpulan komponen fisik (*sourcing components*).
 3.  [ ] Proses penyolderan komponen ke papan PCB. (*assembly*)
